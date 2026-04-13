@@ -1,9 +1,5 @@
-# Quantum Walk-Based Stock Option Pricing
+# Quantum Walk-Based profit maximizing strategy for Stock Option Pricing
 ### A Comparison with Classical Dynamic Programming
-
-**Team: Schrodinger's Coders**
-
-*2nd Place - QuantUM Hackathon 2025*
 
 ---
 
